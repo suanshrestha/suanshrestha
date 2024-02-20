@@ -31,6 +31,7 @@
 
 ###
 
-<h1 align="center">Hey There 👋</h1>
+<h1 align="center">Hey There 🖐🏻</h1>
+<h6 align="center">DO WHAT EXCITES</h6>
 
 ###
